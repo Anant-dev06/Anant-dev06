@@ -1,4 +1,4 @@
-## 👋 Hi, I’m [Your Name] – a passionate Front-End Web Developer and aspiring professional aiming to work in Japan’s IT industry.
+## 👋 Hi, I’m Anant Shrotriya – a passionate Front-End Web Developer and aspiring professional aiming to work in Japan’s IT industry.
 
 💻 **Skills & Technologies**: HTML, CSS, Tailwind CSS, JavaScript, Git, GitHub <br>
 🎯 **Current Focus**: Building responsive and interactive web interfaces <br>
