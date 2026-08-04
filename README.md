@@ -1,10 +1,5 @@
-## 👋 Hi, I’m Anant Shrotriya – a passionate Front-End Web Developer and aspiring professional aiming to work in Japan’s IT industry.
+👋 Hi, I'm Anant Shrotriya
 
-💻 **Skills & Technologies**: HTML, CSS, Tailwind CSS, JavaScript, Git, GitHub <br>
-🎯 **Current Focus**: Building responsive and interactive web interfaces by using modern tools <br>
-📚 **Learning**: Improving JavaScript, mastering frameworks, and exploring modern front-end tools <br>
-🌏 **Goal**: Contribute to innovative projects and grow my career in Japan <br>
+Frontend Developer crafting modern, interactive, and high-performance web experiences with HTML, CSS, JavaScript, GSAP, and React.
 
-✨ **Fun Fact**: I enjoy turning creative ideas into smooth, user-friendly web experiences!
-
-
+🇯🇵 Long-term Goal: Build a successful frontend career in Japan while continuously improving my technical and Japanese language skills.
