@@ -150,10 +150,6 @@ A modern developer portfolio featuring smooth scrolling, animations, responsive 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Anant-dev06&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
-
-<p align="center">
 
 Thanks for visiting my profile! ⭐
 
