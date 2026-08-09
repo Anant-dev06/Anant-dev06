@@ -5,6 +5,10 @@ Frontend Developer • Creative Problem Solver • Future Software Engineer in J
 </h3>
 
 <p align="center">
+  <img src="anant-shrotriya-loader-ezgif.gif" width="800">
+</p>
+
+<p align="center">
 I'm passionate about building modern, responsive, and interactive web experiences using clean code and creative UI design.
 My goal is to become a skilled Frontend Engineer and build my career in Japan's IT industry.
 </p>
