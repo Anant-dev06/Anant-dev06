@@ -56,44 +56,12 @@ My goal is to become a skilled Frontend Engineer and build my career in Japan's 
 
 ## 📂 Featured Projects
 
-### 🚗 Ferrari Landing Page
-A luxury-inspired landing page with smooth GSAP animations, responsive design, and immersive user interactions.
-
-**Tech**
-- HTML
-- CSS
-- JavaScript
-- GSAP
-
----
-
-### 🎧 Apple AirPods Landing Page
-
-Interactive product landing page inspired by Apple with advanced animations and scroll effects.
-
-**Tech**
-- HTML
-- CSS
-- JavaScript
-- GSAP
-
----
-
-### 🚘 BMW Creative Clone
-
-A redesigned BMW website focused on premium UI design, creative layouts, and smooth animations.
-
-**Tech**
-- HTML
-- CSS
-- JavaScript
-- GSAP
-
----
 
 ### 🌐 Personal Portfolio
 
 A modern developer portfolio featuring smooth scrolling, animations, responsive layouts, and a premium dark theme.
+
+<a href = "https://anant-dev06.github.io/My-Portfolio/">🔗 View Live</a>
 
 **Tech**
 - HTML
@@ -103,6 +71,50 @@ A modern developer portfolio featuring smooth scrolling, animations, responsive 
 - Lenis
 
 ---
+
+### 🚗 Ferrari Landing Page
+A luxury-inspired landing page with smooth GSAP animations, responsive design, and immersive user interactions.
+
+<a href = "https://anant-dev06.github.io/Ferrari-F1/">🔗 View Live</a>
+
+
+**Tech**
+- HTML
+- CSS
+- JavaScript
+- GSAP
+
+---
+
+
+### 🚘 BMW Creative Clone
+
+A redesigned BMW website focused on premium UI design, creative layouts, and smooth animations.
+
+<a href = "https://anant-dev06.github.io/BMW-Creative.clone/">🔗 View Live</a>
+
+**Tech**
+- HTML
+- CSS
+- JavaScript
+- GSAP
+
+---
+
+### 🎧 Apple AirPods Landing Page (Not Responsive)
+Interactive product landing page inspired by Apple with advanced animations and scroll effects.
+
+<a href = "https://anant-dev06.github.io/Airpods-landing-gsap/">🔗 View Live</a>
+
+**Tech**
+- HTML
+- CSS
+- JavaScript
+- GSAP
+
+---
+
+
 
 ## 🎯 2026 Goals
 
@@ -139,9 +151,9 @@ A modern developer portfolio featuring smooth scrolling, animations, responsive 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:shrotriyaanant2006@gmail.com">
+<!-- <a href="mailto:shrotriyaanant2006@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+</a> -->
 
 </p>
 
